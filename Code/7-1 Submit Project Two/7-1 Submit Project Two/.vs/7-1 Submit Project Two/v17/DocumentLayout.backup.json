@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Analysis and Design\\7-1 Submit Project Two\\7-1 Submit Project Two\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D87E6DF2-DD9A-4900-B84F-0E2157B084B9}|7-1 Submit Project Two\\7-1 Submit Project Two.vcxproj|C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Analysis and Design\\7-1 Submit Project Two\\7-1 Submit Project Two\\7-1 Submit Project Two\\7-1 Submit Project Two.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D87E6DF2-DD9A-4900-B84F-0E2157B084B9}|7-1 Submit Project Two\\7-1 Submit Project Two.vcxproj|solutionrelative:7-1 Submit Project Two\\7-1 Submit Project Two.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "7-1 Submit Project Two.cpp",
+              "DocumentMoniker": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Analysis and Design\\7-1 Submit Project Two\\7-1 Submit Project Two\\7-1 Submit Project Two\\7-1 Submit Project Two.cpp",
+              "RelativeDocumentMoniker": "7-1 Submit Project Two\\7-1 Submit Project Two.cpp",
+              "ToolTip": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Analysis and Design\\7-1 Submit Project Two\\7-1 Submit Project Two\\7-1 Submit Project Two\\7-1 Submit Project Two.cpp",
+              "RelativeToolTip": "7-1 Submit Project Two\\7-1 Submit Project Two.cpp",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-13T08:02:24.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

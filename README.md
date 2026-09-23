@@ -13,6 +13,8 @@ This was a medium-level assignment done in C++ to help academic advisors look up
 - Error Handling
 - Basic Menu Interface
 - File Parsing
+- Insertion
+- Deletion
 
 ---
 **Rubric Of Project 1 (Document Submission)**
